@@ -1,0 +1,22 @@
+{
+  "model_name": "IsolationForest",
+  "model_version": "1.0.0",
+  "feature_names": [
+    "total_requests",
+    "requests_per_minute",
+    "failed_login_count",
+    "successful_login_count",
+    "auth_failure_ratio",
+    "http_4xx_count",
+    "http_5xx_count",
+    "avg_response_time",
+    "max_response_time",
+    "avg_bytes_sent",
+    "avg_request_size",
+    "hour_sin",
+    "hour_cos",
+    "status_error_ratio"
+  ],
+  "threshold": -0.5949481337666257,
+  "training_samples": 5320
+}
